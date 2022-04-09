@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TugasGrid</string>
+    <string name="image_food">Image Food</string>
+
+    <integer-array name="food_images">
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+        <item>@drawable/food</item>
+    </integer-array>
+</resources>
